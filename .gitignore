@@ -1,0 +1,11 @@
+.idea
+/src/conf.ini
+/img/
+/scripts/portraits/
+/scripts/street/
+/scripts/nature/
+/scripts/paysages/
+/scripts/chats/
+/doc/
+/src/doc-src/doc/
+/slim.php

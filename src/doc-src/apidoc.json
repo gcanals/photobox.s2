@@ -1,0 +1,6 @@
+{
+  "name" : "Photobox : l'api des photos",
+  "description" : "api pour le parcours et l'accès à des galeries de photos",
+  "title": "photobox : api",
+  "version" : "0.1.0"
+}
